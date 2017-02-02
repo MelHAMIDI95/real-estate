@@ -6,7 +6,7 @@
     "scripts": {
         "start": "nodemon --debug ./app.js"
     },
-    "author": "Franck Montaigne",
+    "author": "Melinda Hamidi",
     "license": "UNLICENSED",
     "dependencies": {
         "cheerio": "^0.22.0",
